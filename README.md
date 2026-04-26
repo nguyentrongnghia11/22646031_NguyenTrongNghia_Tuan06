@@ -1,1 +1,5 @@
-# 22646031_NguyenTrongNghia_Tuan06
+Nguyễn Trọng Nghĩa - Order Service
+Đoàn Sơn Nguyên - Front end
+Nguyễn Nhật Quân - Auth Service
+Lâm Ngọc Thanh Phú - Payment
+Bùi Ngọc Sang - Food Service
